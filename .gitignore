@@ -1,0 +1,7 @@
+*.swp
+__pycache__/
+penv/
+.ipynb_checkpoints
+.idea
+xg_/
+xg_*
