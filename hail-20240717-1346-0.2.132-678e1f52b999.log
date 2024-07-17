@@ -1,4 +1,0 @@
-2024-07-17 13:46:36.083 Hail: WARN: This Hail JAR was compiled for Spark 3.5.0, running with Spark 3.5.1.
-  Compatibility is not guaranteed.
-2024-07-17 13:46:37.148 Hail: INFO: SparkUI: http://10.0.5.2:4040
-2024-07-17 13:46:37.776 Hail: INFO: Running Hail version 0.2.132-678e1f52b999
